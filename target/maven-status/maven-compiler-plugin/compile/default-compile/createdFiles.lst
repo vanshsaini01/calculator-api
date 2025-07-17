@@ -1,0 +1,11 @@
+com\example\calculator\dto\CalculationRequest.class
+com\example\calculator\dto\OperationHistoryResponse$Operation.class
+com\example\calculator\exception\GlobalExceptionHandler.class
+com\example\calculator\controller\ErrorController.class
+com\example\calculator\CalculatorApiApplication.class
+com\example\calculator\dto\OperationHistoryResponse.class
+com\example\calculator\entity\Operation.class
+com\example\calculator\dto\CalculationResponse.class
+com\example\calculator\repository\OperationRepository.class
+com\example\calculator\service\CalculatorService.class
+com\example\calculator\controller\CalculatorController.class

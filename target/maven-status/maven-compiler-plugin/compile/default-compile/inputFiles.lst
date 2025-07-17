@@ -1,0 +1,10 @@
+E:\calculator-api\src\main\java\com\example\calculator\controller\ErrorController.java
+E:\calculator-api\src\main\java\com\example\calculator\dto\OperationHistoryResponse.java
+E:\calculator-api\src\main\java\com\example\calculator\entity\Operation.java
+E:\calculator-api\src\main\java\com\example\calculator\CalculatorApiApplication.java
+E:\calculator-api\src\main\java\com\example\calculator\controller\CalculatorController.java
+E:\calculator-api\src\main\java\com\example\calculator\dto\CalculationRequest.java
+E:\calculator-api\src\main\java\com\example\calculator\service\CalculatorService.java
+E:\calculator-api\src\main\java\com\example\calculator\dto\CalculationResponse.java
+E:\calculator-api\src\main\java\com\example\calculator\repository\OperationRepository.java
+E:\calculator-api\src\main\java\com\example\calculator\exception\GlobalExceptionHandler.java
